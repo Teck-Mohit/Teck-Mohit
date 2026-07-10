@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I'mMohit Sharma 👋
 
-# 💫 About Me:
-👋 Hi, I'm Mohit Sharma<br><br>💼 Team Leader @ Blinkit (2+ Years)<br><br>🐍 Learning Python for AI & LLM<br><br>🚀 Building Python Projects<br><br>🎯 Future AI/LLM Engineer
+<br><br>💼 Team Leader @ Blinkit (2+ Years)<br><br>🐍 Learning Python for AI & LLM<br><br>🚀 Building Python Projects<br><br>🎯 Future AI/LLM Engineer
 
 
 ## 🌐 Socials:
