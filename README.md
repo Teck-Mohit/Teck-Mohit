@@ -1,3 +1,4 @@
+![Header](https://github.com/Teck-Mohit/Teck-Mohit/blob/main/github.png)
 # 💫 Hi 👋, I'mMohit Sharma 👋
 
 A passionate B.C.A Student || Ai & LLM Learner || Python || MY SQL ||<br><br> Email Me 👉 ✉️ mmohitt000@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>💼 Team Leader @ Blinkit (2+ Years)<br><br>🐍 Learning Python for AI & LLM<br><br>🚀 Building Python Projects<br><br>🎯 Future AI/LLM Engineer
